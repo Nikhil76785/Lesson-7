@@ -1,0 +1,32 @@
+<html>
+    <head><title>CSS Introduction</title>
+    <style>
+        h2{color:firebrick}
+    </style>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 style="color:aqua">Colo(u)rful Stuff!</h1>
+        <h2>The most important aspect of color in daily life is probably the aesthetic and psychological responses that they
+        evoke”our psychological perception”and the resulting influences on art, fashion, commerce, and even physical and
+        emotional sensations. For example, reds, oranges, yellows, and browns are warm, whereas blues, greens, and grays are
+        cold. Reds, oranges, and yellows are said to induce excitement, cheerfulness, stimulation, and aggression; blues and
+        greens to induce security, calm, and peace; and browns, grays, and blacks to bring sadness, depression, and melancholy.
+        However, we can only generalize about such subjective perceptions.</h2>
+        <h3>Age, mood, mental health, and other factors affect color perception. People sharing distinct personal traits often share
+        color perceptions and preferences. For example, schizophrenics are said to have abnormal color perception, and very
+        young children learning to distinguish colors usually prefer red or orange. Many psychologists believe that analyzing
+        one's use of and response to color reveals relevant physiological and psychological information. Some even suggest that
+        specific colors have a therapeutic effect on physical and mental disabilities.</h3>
+        <h4>Colors are not universal. Some languages do not have separate words for green and blue or yellow and orange, whereas
+        Eskimos use 17 different words for white to describe different snow conditions. Comparing color terminology reveals
+        certain consistent patterns. All languages have designations for black and white.
+        
+        If a third hue is distinguished, it is red; next comes yellow or green, and then other colors.
+        
+        Consider soccer fanatics who so love their team's colors that they tear and burn the other team's flag. They dye their
+        hair and faces yellow-red, blue-white, or red-white to match their team's colors, but cannot stand the opponent's
+        colors. They taunt the opposing team with clothes in their own team's colors, even to the extent of injury or death.
+        Most important, they gain identity, send a message, and enjoy the confidence that comes with belonging to a peer group.</h4>
+    </body>
+</html>
